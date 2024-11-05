@@ -32,12 +32,23 @@ fun main() {
 //    println("${if (condition) 'a' else 'b'}")
 
 
-    val range1 = 1..10
-    val range2 = 0 until 10
+//    val range1 = 1..10
+//    val range2 = 0 until 10
+
+//    val percent = 35
+//    println(percent in 1..100)
+//    println('t' in "kotlin")
+//
+//    isDigit('a')
+//    println(unitFun())
 }
+
+//fun unitFun() = Unit
 
 //fun voidTest() {
 //    print("test")
 //}
 
 //fun shortTest() = println("test")
+
+//fun isDigit(ch: Char) = ch in '0'..'9'
